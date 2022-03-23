@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cloudd123
 - 👀 I’m interested in design and software
-- 🌱 I’m currently learning mostly everything 
+- 🌱 I’m currently learning React and python 
 - 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me goncalofilipeamro@gmail.com
 
