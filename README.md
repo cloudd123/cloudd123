@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cloudd123
+- 👋 Hi, my name is Goncalo 
 - 👀 I’m interested in design and software
 - 🌱 I’m currently learning React and python 
 - 💞️ I’m looking to collaborate on not sure yet
